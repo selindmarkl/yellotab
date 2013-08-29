@@ -2,10 +2,10 @@ yellotab
 ========
 
 ### Metod 2 Framset redirect
- Hur du genom att lägga en ram kan visa en anna sida på din domän
+ Hur du genom att lägga en ram kan visa en annan sida på din domän. 
  
 
-    < 
+     
     <!DOCTYPE HTML>  
     <html>
      <head>
@@ -22,6 +22,7 @@ yellotab
       </html>
 
 ### Metod 2 http redirect
+Skickar iväg dig till den adress som anges genom url, efter antal sekuder som anges som content
 
     <meta http-equiv="refresh" content="0; url=http://example.com/"> 
 
