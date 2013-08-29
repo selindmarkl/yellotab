@@ -1,4 +1,4 @@
-yellotab
+Skicka vidare besökare till annan adress
 ========
 
 ### Metod 2 Framset redirect
