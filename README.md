@@ -5,6 +5,7 @@ yellotab
 
 ##Metod 1 http redirect
 
+<meta http-equiv="refresh" content="0; url=http://example.com/"> 
 
 
 
