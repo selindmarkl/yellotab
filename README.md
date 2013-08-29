@@ -1,7 +1,7 @@
 Skicka vidare besökare till annan adress
 ========
 
-### Metod 2 Framset redirect
+### Metod 1 Frameset redirect
  Hur du genom att lägga en ram kan visa en annan sida på din domän. 
  
 
