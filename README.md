@@ -4,9 +4,10 @@ yellotab
 ### Metod 2 Framset redirect
  Hur du genom att lägga en ram kan visa en anna sida på din domän
  
- 
- <!DOCTYPE HTML>   
- 	<html>
+
+    < 
+    <!DOCTYPE HTML>  
+    <html>
      <head>
      <title> Yellotab.se </TITLE>
     </head>
@@ -17,8 +18,8 @@ yellotab
      <noframes>
        <a href=" http://yellotab.com "> http://yellotab.com </a>
       </noframes>
-   </body>
- </html>
+      </body>
+      </html>
 
 ### Metod 2 http redirect
 
